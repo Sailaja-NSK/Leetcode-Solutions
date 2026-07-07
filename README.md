@@ -7,18 +7,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -33,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
