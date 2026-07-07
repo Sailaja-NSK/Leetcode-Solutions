@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
