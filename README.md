@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Depth-First Search
 |  |
@@ -32,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -57,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
