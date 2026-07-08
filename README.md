@@ -58,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [2485-find-the-pivot-integer](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
