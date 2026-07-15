@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [2485-find-the-pivot-integer](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Graph Theory
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Memoization
 |  |
 | ------- |
