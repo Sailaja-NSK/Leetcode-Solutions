@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0994-rotting-oranges](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1331-rank-transform-of-an-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1463-cherry-pickup-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1463-cherry-pickup-ii) |
