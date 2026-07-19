@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0316-remove-duplicate-letters](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -202,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
