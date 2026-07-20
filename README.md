@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0994-rotting-oranges](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1260-shift-2d-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1463-cherry-pickup-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1463-cherry-pickup-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1260-shift-2d-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1463-cherry-pickup-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
