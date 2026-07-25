@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0120-triangle) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
