@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0135-candy) |
+| [0189-rotate-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
