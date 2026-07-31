@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0200-number-of-islands) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
@@ -292,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
