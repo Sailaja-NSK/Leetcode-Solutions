@@ -1,16 +1,24 @@
 class Solution {
-    public int solve(int start,int end, int[] nums) {
+    public int solve(int start,int end, int[] nums,int[][] dp) {
         if(start == end) return nums[start];
 
-        int pickLeft = nums[start] - solve(start+1,end,nums);
+        if(dp[start][end] != -1) return dp[start][end];
 
-        int pickRight = nums[end] - solve(start,end-1,nums);
+        int pickLeft = nums[start] - solve(start+1,end,nums,dp);
+
+        int pickRight = nums[end] - solve(start,end-1,nums,dp);
 
 
-        return Math.max(pickLeft,pickRight);
+        return dp[start][end] = Math.max(pickLeft,pickRight);
     }
     public boolean predictTheWinner(int[] nums) {
+        int n = nums.length;
+
+        int[][] dp = new int[n][n];
+        for(int i = 0;i < n;i++) {
+            Arrays.fill(dp[i],-1);
+        }
         
-        return solve(0,nums.length - 1,nums) >= 0;
+        return solve(0,nums.length - 1,nums,dp) >= 0;
     }
 }
