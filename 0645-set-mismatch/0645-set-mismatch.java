@@ -2,16 +2,26 @@ class Solution {
     public int[] findErrorNums(int[] nums) {
         int n = nums.length;
         int[] ans = new int[2];
-        int[] freq = new int[n+1];
-        for(int i = 0;i < n;i++) {
-            freq[nums[i]]++;
+        long s = (n * (n+1)) / 2;
+        long s2 = (n * (n+1) * (2L*n+1) ) / 6;
+
+        long sn = 0;
+        long s2n = 0;
+        for(int num:nums) {
+            sn += num;
+            s2n += (long) num * num;
         }
 
-        for(int i = 1;i <= n;i++) {
-            if(freq[i] == 2) ans[0] = i;
-            if(freq[i] == 0) ans[1] = i;
-        }
+        long val1 = sn- s;
+        long val2 = s2n - s2;
+
+        long sumXY = val2 / val1;
+        int duplicate = (int)((sumXY + val1) / 2);
+        int missing = (int) (duplicate - val1);
+        
+        ans[0] = duplicate;
+        ans[1]= missing;
 
         return ans;
-    }
+    } 
 }
