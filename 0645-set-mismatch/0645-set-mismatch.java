@@ -7,20 +7,14 @@ class Solution {
             xor = xor ^ (i+1);
         }
 
-        int bitNo = 0;
-        while(true) {
-            if((xor & (1 << bitNo)) != 0) {
-                break;
-            }
-            bitNo++;
-        }
+        int number = xor & ~(xor-1);
 
         int zero = 0;
         int one = 0;
 
         for(int i = 0;i < n;i++) {
             //part of one club;
-            if((nums[i] & (1 << bitNo)) != 0 ) {
+            if((nums[i] & number) != 0 ) {
                 one = one ^ nums[i];
             } else {
                 zero = zero ^ nums[i];
@@ -29,7 +23,7 @@ class Solution {
 
         for(int i = 1;i <= n;i++) {
             //part of one club;
-            if((i & (1 << bitNo)) != 0 ) {
+            if((i & number) != 0 ) {
                 one = one ^ i;
             } else {
                 zero = zero ^ i;
