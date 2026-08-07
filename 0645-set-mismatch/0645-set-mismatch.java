@@ -1,27 +1,47 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
         int n = nums.length;
-        int[] ans = new int[2];
-        long s = (n * (n+1)) / 2;
-        long s2 = (n * (n+1) * (2L*n+1) ) / 6;
-
-        long sn = 0;
-        long s2n = 0;
-        for(int num:nums) {
-            sn += num;
-            s2n += (long) num * num;
+        int xor = 0;
+        for(int i = 0;i < n;i++) {
+            xor = xor ^ nums[i];
+            xor = xor ^ (i+1);
         }
 
-        long val1 = sn- s;
-        long val2 = s2n - s2;
+        int bitNo = 0;
+        while(true) {
+            if((xor & (1 << bitNo)) != 0) {
+                break;
+            }
+            bitNo++;
+        }
 
-        long sumXY = val2 / val1;
-        int duplicate = (int)((sumXY + val1) / 2);
-        int missing = (int) (duplicate - val1);
-        
-        ans[0] = duplicate;
-        ans[1]= missing;
+        int zero = 0;
+        int one = 0;
 
-        return ans;
-    } 
+        for(int i = 0;i < n;i++) {
+            //part of one club;
+            if((nums[i] & (1 << bitNo)) != 0 ) {
+                one = one ^ nums[i];
+            } else {
+                zero = zero ^ nums[i];
+            }
+        }
+
+        for(int i = 1;i <= n;i++) {
+            //part of one club;
+            if((i & (1 << bitNo)) != 0 ) {
+                one = one ^ i;
+            } else {
+                zero = zero ^ i;
+            }
+        }
+
+        int cnt = 0;
+        for(int i = 0;i < n;i++) {
+            if(nums[i] == zero) cnt++;
+        }
+        if(cnt == 2) return new int[]{zero,one};
+
+        return new int[]{one,zero};
+    }
 }
