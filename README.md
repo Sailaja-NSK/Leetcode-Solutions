@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
