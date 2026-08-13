@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1991-find-the-middle-index-in-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
