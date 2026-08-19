@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0048-rotate-image) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
