@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0645-set-mismatch) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
