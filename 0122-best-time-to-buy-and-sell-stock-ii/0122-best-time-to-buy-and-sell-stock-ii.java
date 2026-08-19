@@ -4,22 +4,22 @@ class Solution {
         if(n == 0) return 0;
         
 
-        int[][] dp = new int[n+1][2];
-        dp[n][0] = 0;
-        dp[n][1] = 0;
+        int[] ahead = new int[2];
+        int[] curr = new int[2];
+        
 
         for(int idx = n-1;idx >= 0;idx--) {
             for(int buy = 0;buy <= 1;buy++) {
                 int profit;
                 if(buy == 0) {
-                    profit = Math.max(-prices[idx] + dp[idx+1][1], 0+dp[idx+1][0]);
+                    profit = Math.max(-prices[idx] + ahead[1], 0+ahead[0]);
                 } else {
-                    profit = Math.max(prices[idx] + dp[idx+1][0], 0+dp[idx+1][1]);
+                    profit = Math.max(prices[idx] + ahead[0], 0+ahead[1]);
                 }
-                dp[idx][buy] = profit;
+                curr[buy] = profit;
             }
-            
+            ahead = curr;
         }
-        return dp[0][0];
+        return curr[0];
     }
 }
