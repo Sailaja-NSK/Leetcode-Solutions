@@ -1,21 +1,21 @@
 class Solution {
     public void generateSubsets(int index,int[] nums,int n,
-    Set<List<Integer>> ans,List<Integer> temp) {
-        if(index == n) {
-            ans.add(new ArrayList<>(temp));
-            return;
+    List<List<Integer>> ans,List<Integer> temp){
+        ans.add(new ArrayList<>(temp));
+
+        for(int i = index;i < n;i++) {
+            if(i > index && nums[i] == nums[i-1]) continue;
+            temp.add(nums[i]);
+            generateSubsets(i+1,nums,n,ans,temp);
+            temp.remove(temp.size()-1);
         }
 
-        temp.add(nums[index]);
-        generateSubsets(index+1,nums,n,ans,temp);
-        temp.remove(temp.size()-1);
-        generateSubsets(index+1,nums,n,ans,temp);
     }
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         int n = nums.length;
         Arrays.sort(nums);
-        Set<List<Integer>> ans = new HashSet<>();
+        List<List<Integer>> ans = new ArrayList<>();
         generateSubsets(0,nums,n,ans,new ArrayList<>());
-        return new ArrayList<>(ans);
+        return ans;
     }
 }
