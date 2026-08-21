@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0055-jump-game) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
@@ -434,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
