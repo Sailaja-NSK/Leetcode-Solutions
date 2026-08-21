@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
+| [0216-combination-sum-iii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 ## Algorithm X
 |  |
 | ------- |
