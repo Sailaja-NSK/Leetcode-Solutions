@@ -1,15 +1,16 @@
 class Solution {
     public void generate(int index,int[] arr,int target,int n,List<List<Integer>> ans,List<Integer> temp) {
         if(index == n) {
-            if(target == 0) {
-                ans.add(new ArrayList<>(temp));
-            }
+            return;
+        }
+        if(target == 0) {
+            ans.add(new ArrayList<>(temp));
             return;
         }
         if(arr[index] <= target) {
             temp.add(arr[index]);
             generate(index,arr,target-arr[index],n,ans,temp);
-            temp.remove(temp.size()-1);
+            temp.remove(temp.size()-1); 
         }
         generate(index+1,arr,target,n,ans,temp);
         
