@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
