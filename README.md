@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0997-find-the-town-judge](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0997-find-the-town-judge](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
