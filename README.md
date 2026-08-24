@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0860-lemonade-change](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0994-rotting-oranges](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [1020-number-of-enclaves](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [1020-number-of-enclaves](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0316-remove-duplicate-letters](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [1021-remove-outermost-parentheses](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -246,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0721-accounts-merge](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0997-find-the-town-judge](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -340,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0721-accounts-merge](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [1331-rank-transform-of-an-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
