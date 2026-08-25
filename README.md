@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0827-making-a-large-island](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
