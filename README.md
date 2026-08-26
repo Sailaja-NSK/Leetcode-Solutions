@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0827-making-a-large-island) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0721-accounts-merge) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -510,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
