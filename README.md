@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2643-row-with-maximum-ones](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2643-row-with-maximum-ones) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sailaja-NSK/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
